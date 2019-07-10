@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CurseForge Downloader
 // @namespace    https://www.yesterday17.cn/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Download files from curseforge directly instead of launching Twitch.
 // @author       Yesterday17
 // @include      *://www.curseforge.com/*
