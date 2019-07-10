@@ -11,7 +11,7 @@
 "use strict";
 (function() {
   const elements = document.querySelectorAll(
-    '.icon.icon-margin use[*|href="/Content/2-0-7117-35996/Skins/CurseForge/images/twitch/Logo/Glitch.svg#Logo/Glitch"]'
+    '.icon.icon-margin use[*|href="/Content/2-0-7122-35480/Skins/CurseForge/images/twitch/Logo/Glitch.svg#Logo/Glitch"]'
   );
   Array.from(elements)
     .map(item => {
@@ -33,7 +33,7 @@
       elements[index].parentElement.setAttribute("viewBox", "0 0 20 20");
       elements[index].setAttribute(
         "xlink:href",
-        "/Content/2-0-7117-35996/Skins/CurseForge/images/twitch/Action/Download.svg#Action/Download"
+        "/Content/2-0-7122-35480/Skins/CurseForge/images/twitch/Action/Download.svg#Action/Download"
       );
     });
 })();
